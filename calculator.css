@@ -1,0 +1,43 @@
+header{
+    font-family:monospace;
+    background-color: #2beaffcd;
+    color: black;
+    font-size: 25px;
+}
+#panel{
+    font-family: monospace;
+    display: flex;
+    justify-content: space-around;
+    background-color: #383838;
+    padding:10px;
+    margin:5px;
+    border-radius: 15px;
+}
+select{
+    background-color: black;
+    color:#2beaffcd;
+    border: solid 5px #2beaffcd;
+    border-radius: 10px;
+    padding: 5px;
+}
+input{
+    border: solid 5px #2beaffcd;
+    color: #2beaffcd;
+    background-color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+button{
+    border: solid 5px #2beaffcd;
+    border-radius:10px;
+    padding: 5px;
+    background-color: black;
+    color: #2beaffcd;
+}
+p{
+    font-family: monospace;
+    color: #2beaffcd;
+    background-color: #383838;
+    padding: 10px;
+    border-radius: 10px;
+}
